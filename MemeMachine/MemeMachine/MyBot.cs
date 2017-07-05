@@ -131,7 +131,7 @@ namespace MemeMachine
             commands.CreateCommand("fu")
                 .Do(async (e) =>
                 {
-                    await e.Channel.SendTTSMessage("What the FUCK mate?");
+                    await e.Channel.SendTTSMessage("What the FUCK mate? MAN YOU ARE SO FUCKING WITH NEA. DONT TRY TO MAKE HER YOUR SIDE CHICK. SHE IS INNOCENT AND YOU'VE CHEATED ON HER. DONT MANUPULATE HER INTO BLOCKING ME");
                 });
         }
 
